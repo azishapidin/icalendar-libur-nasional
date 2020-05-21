@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 METHOD:PUBLISH
 VERSION:2.0
 PRODID:-//Apple Inc.//iPhoto//EN
-X-WR-CALNAME:Libur Nasional - Author: hi@azishapidin.com
+X-WR-CALNAME:Libur Nasional - github.com/azishapidin/icalendar-libur-nasional
 X-WR-TIMEZONE:America/Los_Angeles
 CALSCALE:GERGORIAN
 PREFERRED_LANGUAGE:ID
