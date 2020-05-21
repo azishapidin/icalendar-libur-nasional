@@ -1,4 +1,4 @@
-# Libur Nasional 2020 for iCalendar
+# Libur Nasional untuk iCalendar
 
 Note:
 - Saat ini baru berisi libur untuk 2020.
